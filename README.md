@@ -3,21 +3,34 @@
 <h1 align="center"> I'm Deepthi Jayasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{deepthijayasinghe}/count.svg" alt="deepthijayasinghe :: Visitor's Count" /></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepthijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="deepthijayasinghe" /> </p>
 
 ---
 
 - 👀 I’m interested in **electronics and programming**
 
-- 🌱 I’m currently learning **electronic,computer Science, Mathematics in WUSL**
+- 🌱 I’m currently learning **electronic,computer Science, Mathematics in WUSL*
+- 👯 I’m looking forward to collaborate on open source projects.
 
 - 📫 How to reach me **| deepthisandamali1@gmail.com| https://www.linkedin.com/in/deepthi-ns-jayasinghe/ |**
   
 - 👨‍💻 My portfolio is available at [https://sites.google.com/view/deepthi-jayasinghe/education?authuser=1](https://sites.google.com/view/deepthi-jayasinghe/education?authuser=1)
 
 - ⚡ Fun fact **Call me as DNS**
+
+---
+<h4>Outside tech</h4>
+<ul style="list-style-type:none;">
+  <li>🎸 play Guitar & bongo</li>
+  <li>🎵 listen to music</li>
+  <li>📖 I love to read novels</li>
+  <li>🖌️ do painting and skecthing</li>
+  <li>🌴 explore nature outdoors</li>
+</ul>  
+  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
