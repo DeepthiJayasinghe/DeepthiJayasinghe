@@ -18,6 +18,7 @@
 </p>
 
 ---
+
 - 🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>
 - 👀 I’m interested in **electronics and programming**
 
