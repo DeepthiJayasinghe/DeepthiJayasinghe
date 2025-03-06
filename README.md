@@ -3,6 +3,8 @@
 <h1 align="center"> I'm Deepthi Jayasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{deepthijayasinghe}/count.svg" alt="deepthijayasinghe :: Visitor's Count" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deepthijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="deepthijayasinghe" /> </p>
 
 ---
