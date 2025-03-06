@@ -19,7 +19,7 @@
 
 ---
 
-- 🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">LINK TO MY RESUME</a>
+- 🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="[https://flowcv.io/resume/feedback/lMhKFXfgJjf8](https://drive.google.com/file/d/1vecS0zaICUDKk6-9gPBVj85P394bwUxH/view)">LINK TO MY RESUME</a>
 - 👀 I’m interested in **electronics and programming**
 
 - 🌱 I’m currently learning electronic,computer Science, Mathematics in WUSL*
