@@ -10,12 +10,12 @@
     <img src="https://img.shields.io/github/followers/deepthijayasinghe?style=social" alt="Followers" />
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
 <img src="https://img.shields.io/badge/Age-28-blue" />
   <img src="https://img.shields.io/badge/Focus-Frontend Developing-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
-</p> -->
+</p>
 
 ---
 
