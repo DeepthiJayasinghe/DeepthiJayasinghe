@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning electronic,computer Science, Mathematics in WUSL*
 - 👯 I’m looking forward to collaborate on open source projects.
 - 📫 How to reach me | deepthisandamali1@gmail.com| 
-- 🌐 You can see some of my projects on [my portfolio](https://deepthijayasinghe.github.io/DNSPortfolio.github.io/)
+- 🌐 You can see some of my projects on <a href="(https://deepthijayasinghe.github.io/DNSPortfolio.github.io/)" target="_blank">[my portfolio]</a>
 - 🗓️ Here is my daily activities in my journry at <a href="https://drive.google.com/file/d/1vecS0zaICUDKk6-9gPBVj85P394bwUxH/view" target="_blank">TIKTOK</a>
 - ⚡ Fun fact **Call me as DNS**
 
