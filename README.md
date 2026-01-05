@@ -19,7 +19,7 @@
 
 ---
 
-- 🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="(https://drive.google.com/drive/home)" target="_blank">LINK TO MY RESUME</a>
+- 🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1WjFaTf9M86nQ_0TRVUYp0XYO7M62JzTh/view" target="_blank">LINK TO MY RESUME</a>
 - 👀 I’m interested in **electronics and programming**
 - 🌱 I’m currently learning electronic,computer Science, Mathematics in WUSL*
 - 👯 I’m looking forward to collaborate on open source projects.
